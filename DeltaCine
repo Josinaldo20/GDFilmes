@@ -1,6 +1,6 @@
 
-[
-
+[ {
+        "search_series": [
             {
                 "id": "1499",
                 "series_name": "Harley Quinn",
@@ -60,7 +60,9 @@
                 "total_views": "58466",
                 "total_rate": "3",
                 "rate_avg": "5"
-            },
+            }
+        ],
+        "search_movies": [
             {
                 "id": "3007",
                 "language_id": "1",
@@ -151,5 +153,7 @@
                 "language_name": "Dublado",
                 "language_background": "#1D8449"
             }
-
+        ],
+        "search_channels": []
+    }
 ]
