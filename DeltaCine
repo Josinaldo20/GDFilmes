@@ -1,6 +1,4 @@
-[{"search_series": "[{"id": "1499",
-"series_name": "Harley Quinn",
-"series_desc": "Foi criada para a série animada do Batman",
+[{"search_series": [{"id": "1499","series_name": "Harley Quinn","series_desc": "Foi criada para a série animada do Batman",
 "por Bruce Timm e Paul Dini. ... Em essência",
 "ela é uma psicóloga fascinada pelo Coringa",
 "depois de estudá-lo por algum tempo ela se apaixonou pelo Palhaço do Crime",
@@ -57,8 +55,8 @@
 "series_cover_thumb": "http://visionnetworks.site//images/series/thumbs/61336_usaiQmdiDUpQvO5QwDD7zjgElyN.jpg",
 "total_views": "58466",
 "total_rate": "3",
-"rate_avg": "5"}]",
-"search_movies": "[{"id": "3007",
+"rate_avg": "5"}],
+"search_movies": [{"id": "3007",
 "language_id": "1",
 "genre_id": "3,8,21,11,20",
 "movie_title": "Batman:  O Longo Dia das Bruxas – Parte 2",
@@ -137,5 +135,5 @@
 "total_rate": "0",
 "rate_avg": "0",
 "language_name": "Dublado",
-"language_background": "#1D8449"}]",
-"search_channels": "[]"}]
+"language_background": "#1D8449"}],
+"search_channels": []}]
