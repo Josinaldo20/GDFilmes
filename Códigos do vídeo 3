@@ -1,0 +1,7 @@
+Código 1
+
+viewpager1.setOffscreenPageLimit(4);
+
+Código 2
+
+bottomnavigation1.getMenu().getItem(_position).setChecked(true);
