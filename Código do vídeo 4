@@ -1,0 +1,5 @@
+private BroadcastReceiver ChangeSlideReceiver = new BroadcastReceiver() {
+      @Override
+      public void onReceive(Context context, Intent intent) {
+
+pos = intent.getStringExtra("pos");
